@@ -10,5 +10,6 @@ codeunit 80004 E3_EventSubscriberCodeunit
             Rec."UOM Description" := UOMRec.Description
         else
             Rec."UOM Description" := '';
+
     end;
 }

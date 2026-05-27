@@ -20,6 +20,7 @@ page 80004 "E3 Class Card"
                 field(FamilyCode; Rec.FamilyCode)
                 {
                     ApplicationArea = All;
+//Tool
                 }
                 field(Code; Rec.Code)
                 {

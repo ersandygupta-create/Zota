@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "SB02032026",
+            "environmentName": "UAT",
             "tenant": "4153484c-c203-4f41-9556-1066efd53b15",
             "startupObjectId": 22,
             "startupObjectType": "Page",
